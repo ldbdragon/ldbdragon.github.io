@@ -2,6 +2,6 @@
 layout: default
 ---
 
-# Welcome to my Github Page -- testing
+# ldbdragon - GitHub Page
 
-Moving on to more Testing themes in GitHub.
+All of our dragons are currently in hiatus, updates later.
