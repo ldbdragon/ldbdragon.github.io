@@ -1,1 +1,7 @@
-<h1> Hello from my GitHub Page</h1>
+---
+layout: default
+---
+
+# Welcome to my Github Page -- testing
+
+Testing themes in GitHub.
